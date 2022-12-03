@@ -1,2 +1,5 @@
-# data_science-machine-learning-
-Data Science models
+# Rgression_models_machine_learning
+Linear model
+Multiple model
+Polynomial model
+
