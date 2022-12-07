@@ -1,4 +1,4 @@
-# Regression_models_machine_learning
+# Classification_and_Regression_models_machine_learning
 Linear model,
 Multiple model,
 Polynomial model
