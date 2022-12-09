@@ -2,4 +2,6 @@
 Linear model,
 Multiple model,
 Polynomial model
+K-nearest
+Bayes model
 
